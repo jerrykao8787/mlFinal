@@ -36,7 +36,7 @@ You can download pretrained models here:
 
 ## Results
 
-Our model achieves the following performance on :
+My model achieves the following performance on :
 
 ### [Tabular Playground Series - Aug 2022](https://www.kaggle.com/competitions/tabular-playground-series-aug-2022/)
 

@@ -13,7 +13,7 @@ pip install gdown unzip pandas numpy sklearn torch
 
 ## Training
 
-To train the model(s) in the project, use this code in Jupyter Notebook:
+To train the model(s) in the project, use this file in Jupyter Notebook:
 
 ```train
 0810756_Final_train.ipynb
@@ -21,7 +21,7 @@ To train the model(s) in the project, use this code in Jupyter Notebook:
 
 ## Evaluation
 
-To evaluate my model, use this code in Jupyter Notebook:
+To evaluate my model, use this file in Jupyter Notebook:
 
 ```eval
 0810756_Final_inference.ipynb
